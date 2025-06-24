@@ -1,1 +1,3 @@
 You are learning TypeScript by working on a project that includes a package.json file, a tsconfig.json file, and a src directory containing TypeScript files. This setup suggests you are exploring TypeScript concepts, practicing coding, and possibly building or testing small applications or modules.
+
+Hello Guru prema kosamey
